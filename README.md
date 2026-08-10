@@ -154,7 +154,7 @@ The Identity Verification module is responsible for securely verifying the user'
 | Success | `#22c55e` |
 | Warning | `#f59e0b` |
 | Error | `#ef4444` |
-| Background | `#f8fafc` |
+| Background | `Edf3fa` |
 | Surface | `#ffffff` |
 | Text Primary | `#111827` |
 | Text Secondary | `#6b7280` |
